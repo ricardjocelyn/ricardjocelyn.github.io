@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ricardjocelyn
+  
 
 github_repos:
   - alshedivat/al-folio
-  - twbs/bootstrap
+  - ricardjocelyn/SUDMEX_CONN_Jocelyn
   - jekyll/jekyll
-  - jquery/jquery
   - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+
