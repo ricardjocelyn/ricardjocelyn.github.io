@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ricardjocelyn.github.io/sitemap.xml
