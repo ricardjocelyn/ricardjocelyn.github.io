@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Jocelyn A. Ricard
-    - name: Date of Birth
-      value: 17th March
+    - name: Email
+      value: jocelyn.ricard@yale.edu
     - name: Languages
       value: English
 
@@ -13,21 +13,41 @@
   contents:
     - title: Bachelors of Science, Neuroscience
       institution: University of Minnesota, Minneapolis, MN
-      year: 2020
+      year: 2016-2020
       description:
-        - Description 1.
+        - College of Biological Sciences
         - Description 2.
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
     - title: Study Abroad
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+      institution: University of Cape Town, Cape Town, South Africa                        
+      year: 2019-2020
       description:
-        - Description 1.
-        - Description 2.
-
+        - Solidarity & Community-Led Transformation in South Africa
+    - title: Study Abroad
+      institution: University of Ghana, Legon, Accra, Ghana
+      year: 2018-2019
+      description:
+        - Social Entrepreneurship and Diplomacy in Ghana
+    - title: Study Abroad
+      institution: ENansen Dijalog Centar, Zagreb, Croatia
+      year: 2018-2018
+      description:
+        - Young Voices - The Fight for Social Change in Croatia
+    - title: Study Abroad
+      institution: Vivekananda Institute of Indian Studies, Mysore, India
+      year: 2017-2018
+      description:
+        - Health & Medicine in a Social & Cultural Context 	
+    - title: Study Abroad
+      institution: International Sustainable Development Studies Institute (ISDSI), Chiang Mai, Thailand
+      year: 2017-2017
+      description:
+        - International Development in Thailand	
+        
+        
 - title: Experience
   type: time_table
   contents:
