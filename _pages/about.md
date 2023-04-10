@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Yale University, Department of Psychology. <a href='https://holmeslab.yale.edu/people/'>Holmes Lab</a>.
 
 profile:
   align: right
