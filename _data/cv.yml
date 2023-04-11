@@ -5,8 +5,7 @@
       value: Jocelyn A. Ricard
     - name: Email
       value: jocelyn.ricard@yale.edu
-    - name: Languages
-      value: English
+
 
 - title: Education
   type: time_table
@@ -16,32 +15,27 @@
       year: 2016 - 2020
       description:
         - College of Biological Sciences
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: Study Abroad
       institution: University of Cape Town, Cape Town, South Africa                        
       year: 2019 - 2020
       description:
         - Solidarity & Community-Led Transformation in South Africa
-    - title: Study Abroad
+    - title: 
       institution: University of Ghana, Legon, Accra, Ghana
       year: 2018 - 2019
       description:
         - Social Entrepreneurship and Diplomacy in Ghana
-    - title: Study Abroad
+    - title: 
       institution: ENansen Dijalog Centar, Zagreb, Croatia
       year: 2018 - 2018
       description:
         - Young Voices - The Fight for Social Change in Croatia
-    - title: Study Abroad
+    - title: 
       institution: Vivekananda Institute of Indian Studies, Mysore, India
       year: 2017 - 2018
       description:
         - Health & Medicine in a Social & Cultural Context 	
-    - title: Study Abroad
+    - title: 
       institution: International Sustainable Development Studies Institute (ISDSI), Chiang Mai, Thailand
       year: 2017 - 2017
       description:
