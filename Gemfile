@@ -16,7 +16,6 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'mini_racer'
     gem 'unicode_utils'
-    bundle add webrick
     gem 'webrick'
     
 end
