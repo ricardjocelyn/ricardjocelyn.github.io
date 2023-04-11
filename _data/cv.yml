@@ -9,7 +9,7 @@
 - title: Education
   type: time_table
   contents:
-      - title: Bachelors of Science, Neuroscience
+    - title: Bachelors of Science, Neuroscience
       institution: University of Minnesota, Minneapolis, MN
       year: 2016 - 2020
       description:
@@ -85,10 +85,7 @@
       items: 
         - Ford Foundation Predoctoral Fellowship 
         - 20th NSF International Summer School on Bio-X Travel Award
-    - year: 2020
-      items: 
-        - Munich Brain Course Award (canceled due to COVID-19)
-
+        
 - title: Academic Interests
   type: nested_list
   contents:
