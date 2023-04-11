@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Jocelyn Ricard
+    - name: Email(s)
+      value: jocelyn.ricard@yale.edu or ricardjoce@gmail.com
+    - name: Current Location
+      value: New Haven, CT
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelors of Science in Neuroscience
+      institution: University of Minnesota, Minneapolis, MN
+      year: 2020
       description:
         - Description 1.
         - Description 2.
