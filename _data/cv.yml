@@ -4,7 +4,7 @@
     - name: Full Name
       value: Jocelyn Ricard
     - name: Email(s)
-      value: jocelyn.ricard@ [at] yale.edu / ricardjoce [at] gmail.com
+      value: jocelyn.ricard [at] yale [dot] edu / ricardjoce [at] gmail [dot] com
     - name: Current Location
       value: New Haven, CT
 
@@ -71,13 +71,13 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Ford Foundation Predoctoral Fellowship
+        - Travel Award, 20th NSF International Summer School on Bio-X Travel Award, Chania, Greece
+    - year: 2020
       items: 
-        - Max Planck Medal
+        - Munich Brain Course Award (canceled due to COVID-19)
 
 - title: Academic Interests
   type: nested_list
