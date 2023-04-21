@@ -31,9 +31,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant in Cognitive Neuroscience
+      institution: Department of Psychology, Yale University
+      year: 2021 - 2023
       description:
         - Description 1.
         - Description 2.
@@ -41,8 +41,8 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
+    - title: Computational Research Assistant
+      institution: German Center for Neurodegenerative Diseases
       year: 1933
       description:
         - Description 1.
