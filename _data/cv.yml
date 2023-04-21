@@ -4,7 +4,7 @@
     - name: Full Name
       value: Jocelyn Ricard
     - name: Email(s)
-      value: jocelyn.ricard [at] yale [dot] edu / ricardjoce [at] gmail [dot] com
+      value: jocelyn.ricard [at] yale.edu / ricardjoce [at] gmail.com
     - name: Current Location
       value: New Haven, CT
 
@@ -32,7 +32,7 @@
   type: time_table
   contents:
     - title: Research Assistant in Cognitive Neuroscience
-      institution: Department of Psychology, Yale University
+      institution: Department of Psychology, Yale University, New Haven, CT
       year: 2021 - 2023
       description:
         - Description 1.
@@ -42,11 +42,10 @@
             - Sub-description 1.
             - Sub-description 2.
     - title: Computational Research Assistant
-      institution: German Center for Neurodegenerative Diseases
-      year: 1933
+      institution: German Center for Neurodegenerative Diseases, Berlin, Germany
+      year: 2020-2021
       description:
         - Description 1.
-        - Description 2.
 
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
@@ -66,7 +65,7 @@
   contents:
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
       year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+      description: Academics...
 
 - title: Honors and Awards
   type: time_table
