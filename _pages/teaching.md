@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
+permalink: /press/
+title: press
 description: 
-nav: false
+nav: true
 nav_order: 5
 ---
