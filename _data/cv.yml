@@ -6,7 +6,7 @@
     - name: Email(s)
       value: jocelyn.ricard [at] yale.edu / ricardjoce [at] gmail.com
     - name: Current Location
-      value: New Haven, CT
+      value: <a href='https://holmeslab.yale.edu/people/'>New Haven, CT</a>.
 
 - title: Education
   type: time_table
