@@ -104,14 +104,13 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: 
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Interested in understanding vulnerabilities (e.g., inequity, enviornment) that lead to the maintenance and severity of substance use disorders within the brain
+    - title: 
       items:
-        - Description 1.
-        - Description 2.
+        - Interetsed in the ways in which people are excluded from neuroimaging and science broadly
+
 
 - title: Other Interests
   type: list
