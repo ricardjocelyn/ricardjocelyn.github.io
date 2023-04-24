@@ -25,14 +25,18 @@
       institution: University of Cape Town, Cape Town, South Africa
       year: 2020
       description:
-        - Description 1.
-        - Description 2.
+        - Solidarity & Community-Led Transformation in South Africa  
     - title: 
       institution: University of Ghana, Legon, Accra, Ghana
       year: 2019
       description:
-        - Description 1.
-        - Description 2.
+        - Social Entrepreneurship and Diplomacy in Ghana
+    - title: 
+      institution: Nansen Dialogue Center, Osijek, Zagreb, and Rijeka, Croatia
+      year: 2018
+      description:
+        - Youth Voices - The Fight for Social Change in Croatia
+        - Description 2.    
 
 - title: Experience
   type: time_table
