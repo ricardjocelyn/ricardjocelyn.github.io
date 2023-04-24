@@ -51,27 +51,27 @@
       institution: Department of Psychology, Yale University, New Haven, CT
       year: 2021-2023
       description:
-        - Independent Project - The neural correlates of cocaine use disorder 
+        - <u>Independent project:</u> The neural correlates of cocaine use disorder 
     - title: Postbaccalaureate Computational Research Assistant
       institution: German Center for Neurodegenerative Diseases (Deutsches Zentrum für Neurodegenerative Erkrankungen), Berlin, Germany
       year: 2020-2021
       description:
-        - Independent Project - Deconstructing the energy production rules for neuronal network oscillations and cognitive function
+        - <u>Independent project:</u> Deconstructing the energy production rules for neuronal network oscillations and cognitive function
     - title: Undergraduate Research Assistant
       institution: Department of Psychiatry and Behavioral Sciences, University of Minnesota, Minneapolis, MN.
       year: 2018-2020
       description:
-        - Independent Project - The use of functional near-infrared spectroscopy to analyze potential differences in brain activity between users and non-users of cannabis 
+        - <u>Independent project:</u> The use of functional near-infrared spectroscopy to analyze potential differences in brain activity between users and non-users of cannabis 
     - title: NSF-REU Undergraduate Summer Research Assistant 
       institution: Department of Biomedical Engineering, Cornell University, Ithaca, NY
       year: 2019-2019
       description:
-        - Independent Project - Restoration of blood flow decreases epileptiform activity in a mouse model of Alzheimer’s disease 
+        - <u>Independent project:</u> Restoration of blood flow decreases epileptiform activity in a mouse model of Alzheimer’s disease 
     - title: Associate Professor of Theoretical Physics
       institution: Department of Laboratory Medicine and Pathology, University of Minnesota, Minneapolis, MN.  
       year: 2017-2019
       description:
-        - Independent Project - Pathologic TDP-43 in centenarians of the Nun Study
+        - <u>Independent project:</u> Pathologic TDP-43 in centenarians of the Nun Study
     - title: Associate Professor of Theoretical Physics
       institution: Department of Pediatrics, Division of Epidemiology, University of Minnesota, Minneapolis, MN.  
       year: 2017-2017
@@ -82,13 +82,6 @@
       year: 2017-2017
       description:
         - <u>Independent project:</u> The effect of cosmetic medical tourism on development in Chiang Mai 
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: Academics...
 
 - title: Honors and Awards
   type: time_table
