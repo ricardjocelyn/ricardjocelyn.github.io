@@ -27,6 +27,12 @@
       description:
         - Description 1.
         - Description 2.
+    - title: 
+      institution: University of Ghana, Legon, Accra, Ghana
+      year: 2019
+      description:
+        - Description 1.
+        - Description 2.
 
 - title: Experience
   type: time_table
