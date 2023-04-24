@@ -6,7 +6,7 @@
     - name: Email(s)
       value: jocelyn.ricard [at] yale.edu / ricardjoce [at] gmail.com
     - name: 
-      value: You can download my latest CV <a href='https://holmeslab.yale.edu/people/'>here!</a>.
+      value: You can download my latest CV <a href='https://ricardjocelyn.github.io/assets/pdf/example_pdf.pdf'>here!</a>.
 
 - title: Education
   type: time_table
