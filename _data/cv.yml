@@ -15,12 +15,8 @@
       institution: University of Minnesota, Minneapolis, MN
       year: 2020
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - College of Biological Sciences, 
+        - Bachelors of Science in Neuroscience
     - title: Study Abroad
       institution: University of Cape Town, Cape Town, South Africa
       year: 2020
@@ -36,7 +32,12 @@
       year: 2018
       description:
         - Youth Voices - The Fight for Social Change in Croatia
-        - Description 2.    
+        - Description 2.
+    - title: 
+      institution: Vivekananda Institute of Indian Studies, Mysore, India
+      year: 2018
+      description:
+        - Youth Voices - The Fight for Social Change in Croatia
 
 - title: Experience
   type: time_table
