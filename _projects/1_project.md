@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: bias in human neuroscience methods
 description: exclusionary practices in human neuroimaging
 img: assets/img/Cover-figure.png
 importance: 1
