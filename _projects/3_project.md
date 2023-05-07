@@ -2,8 +2,8 @@
 layout: page
 title: project 3
 description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+img: assets/img/yale-som.png
+redirect: https://medicine.yale.edu/news-article/confronting-racially-exclusionary-practices-in-the-acquisition-and-analyses-of-neuroimaging-data/
 importance: 3
 category: press
 ---
