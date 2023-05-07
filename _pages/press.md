@@ -2,7 +2,7 @@
 layout: page
 permalink: /press/
 title: press
-description: Press. Replace this text with your description.
+description: Press. 
 nav: true
 nav_order: 5
 ---
@@ -10,7 +10,7 @@ nav_order: 5
 For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
 
-<!-- pages/projects.md -->
+<!-- pages/press.md -->
 <div class="press">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
