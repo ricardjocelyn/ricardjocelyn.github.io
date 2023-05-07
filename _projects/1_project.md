@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 1
-description: a project with a background image
+description: exclusionary practices in human neuroimaging
 img: assets/img/Cover-figure.png
 importance: 1
 category: work
@@ -11,14 +11,6 @@ Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/Cover-figure.png
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -36,11 +28,11 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Cover-figure.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    The use of field-standard approaches in neuroscience and psychology can exclude participants from research, biasing our understanding of brain–behavior relations. Ricard, Parker, and colleagues discuss how we might address inequity in our scientific methodology. The cover image is a stylized illustration depicting exclusion in human neuroimaging methods. Cover concept: Mona Li, Jocelyn Ricard. Printed with permission from Mona Li Visuals.
 </div>
 
 You can also put regular text between your rows of images.
