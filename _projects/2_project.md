@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: neural underpinnings of cocaine use disorder
+description: Functional correlates of cocaine use disorder
 img: assets/img/3.jpg
 importance: 2
 category: work
