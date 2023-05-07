@@ -2,7 +2,7 @@
 layout: page
 title: press
 permalink: /press/
-description: A growing collection of your cool projects.
+description: Selected press in highlighting our work
 nav: true
 nav_order: 5
 display_categories: [press]
