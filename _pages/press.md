@@ -4,7 +4,7 @@ title: press
 permalink: /press/
 description: Selected press in highlighting our work
 nav: true
-nav_order: 5
+nav_order: 4
 display_categories: [press]
 horizontal: false
 ---
