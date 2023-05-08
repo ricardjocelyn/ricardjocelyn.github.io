@@ -2,7 +2,7 @@
 layout: page
 title: press
 permalink: /press/
-description: Selected press in highlighting our work
+description: Selected press highlighting our work
 nav: true
 nav_order: 5
 display_categories: [press]
