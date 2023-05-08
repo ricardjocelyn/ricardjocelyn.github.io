@@ -1,6 +1,6 @@
 ---
 layout: page
-title: neural underpinnings of cocaine use disorder
+title: neural underpinnings of substance use disorders
 description: functional correlates of cocaine use disorder
 img: assets/img/brain.png
 importance: 2
