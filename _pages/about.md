@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 At present, I am a post-baccalaureate neuroscience research assistant at Yale University in New Haven, CT. 
 
-I will be starting my PhD in neuroscience at [Stanford University](https://med.stanford.edu/neurogradprogram.html) as a Knight-Hennessy Scholar in September 2023! 
+I will be starting my PhD in Neuroscience at [Stanford University](https://med.stanford.edu/neurogradprogram.html) as a [Knight-Hennessy Scholar](https://knight-hennessy.stanford.edu/people/jocelyn-ricard) in September 2023! 
 
 You can find more about me throughout my website, and my most recent work [here](https://scholar.google.com/citations?user=YKTfMsYAAAAJ&hl=en&oi=ao). 
 
