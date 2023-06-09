@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was selected as a [Knight-Hennessy Scholar](http://knight-hennessy.stanford.edu/) at Stanford University! 
+I have been selected to be part of Stanford University's Knight-Hennessy Scholars 2023 cohort!
