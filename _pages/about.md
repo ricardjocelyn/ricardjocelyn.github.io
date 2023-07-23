@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Yale University, Department of Psychology. <a href='https://holmeslab.yale.edu/people/'>Holmes Lab</a>.
+subtitle: Yale University, Department of Psychology. <a href='https://holmeslab.rutgers.edu/people/'>Holmes Lab</a>.
 
 profile:
   align: right
