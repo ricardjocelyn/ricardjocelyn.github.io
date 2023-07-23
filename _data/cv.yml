@@ -4,7 +4,7 @@
     - name: Full Name
       value: Jocelyn Ricard
     - name: Email(s)
-      value: jocelyn.ricard [at] yale.edu / ricardjoce [at] gmail.com
+      value: ricard [at] stanford.edu / ricardjoce [at] gmail.com
     - name: 
       value: You can download my full and latest CV <a href='https://ricardjocelyn.github.io/assets/pdf/Ricard_CV_220523.pdf'>here!</a>.
 
@@ -109,4 +109,6 @@
 - title: Invited Talks
   type: list
   contents:
+    - Black in Neuro Week 2023, NeuroRacism Journal Club, Meet the Experts, Virtual. (2023, July)
+    - National Institutes of Health BRAIN Initiative, Neuroethics Working Group, Bethesda, MD. (2023, July)
     - Institute of Neurobiology, Universidad Nacional Autónoma de México, Juriquilla. Querétaro, Mexico (2022, December).
