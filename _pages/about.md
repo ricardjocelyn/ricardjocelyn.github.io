@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Yale University, Department of Psychology. <a href='https://holmeslab.rutgers.edu/people/'>Holmes Lab</a>.
+subtitle: Stanford University, Interdepartmental Neurosciences Program. <a href='https://med.stanford.edu/neurogradprogram/people/student_profiles.html'>Lab</a>.
 
 profile:
   align: right
@@ -19,9 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-At present, I am a post-baccalaureate neuroscience research assistant at Yale University in New Haven, CT. 
+I am a PhD student in Neurosciences at [Stanford University](https://med.stanford.edu/neurogradprogram.html) as a [Knight-Hennessy Scholar](https://knight-hennessy.stanford.edu/scholars/2023-cohort) in September 2023! 
 
-I will be starting my PhD in Neuroscience at [Stanford University](https://med.stanford.edu/neurogradprogram.html) as a [Knight-Hennessy Scholar](https://knight-hennessy.stanford.edu/scholars/2023-cohort) in September 2023! 
+Previously I worked as a post-baccalaureate neuroscience research assistant at Yale University in New Haven, CT and the Deutsches Zentrum für Neurodegenerative Erkrankungen (DZNE) (German Center for Neurodegenerative Diseases) in Berlin, Germany. 
 
 You can find more about me throughout my website, and my most recent work [here](https://scholar.google.com/citations?user=YKTfMsYAAAAJ&hl=en&oi=ao). 
 
