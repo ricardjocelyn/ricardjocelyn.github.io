@@ -11,7 +11,7 @@ profile:
   address: >
     <p>290 Jane Stanford Way</p>
     <p>Stanford University, Neurosciences Building</p>
-    <p>Stanford, CA 06511</p>
+    <p>Stanford, CA 94305</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
