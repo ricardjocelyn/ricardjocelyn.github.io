@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Jocelyn was awarded the Ford Foundation Predoctoral Fellowship from the National Academies of Sciences, Engineering, and Medicine!
+I am honored to have been awarded the Ford Foundation Predoctoral Fellowship from the National Academies of Sciences, Engineering, and Medicine!
