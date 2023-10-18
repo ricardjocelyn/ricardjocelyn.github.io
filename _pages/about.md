@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: Stanford University, Interdepartmental Neurosciences Program. <a href='https://med.stanford.edu/neurogradprogram/people/student_profiles.html'>Lab</a>.
+subtitle: Stanford University, <a href='https://med.stanford.edu/neurogradprogram/people/student_profiles.html'>Interdepartmental Neurosciences Program.</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>2 Hillhouse Ave</p>
-    <p>Yale University</p>
-    <p>New Haven, CT 06511</p>
+    <p>290 Jane Stanford Way</p>
+    <p>Stanford University, Neurosciences Building</p>
+    <p>Stanford, CA 06511</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
