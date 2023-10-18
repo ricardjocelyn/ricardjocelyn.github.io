@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a PhD student in Neurosciences at [Stanford University](https://med.stanford.edu/neurogradprogram.html) as a [Knight-Hennessy Scholar](https://knight-hennessy.stanford.edu/scholars/2023-cohort) in September 2023! 
 
-Previously I worked as a post-baccalaureate neuroscience research assistant at Yale University in New Haven, CT and the Deutsches Zentrum für Neurodegenerative Erkrankungen (DZNE) (German Center for Neurodegenerative Diseases) in Berlin, Germany. 
+"Previously, I began my role as a post-baccalaureate computational research assistant at the Deutsches Zentrum für Neurodegenerative Erkrankungen (DZNE) (German Center for Neurodegenerative Diseases) in Berlin, Germany, followed by a research assistant position in neuroscience at Yale University in New Haven, CT.
 
 You can find more about me throughout my website, and my most recent work [here](https://scholar.google.com/citations?user=YKTfMsYAAAAJ&hl=en&oi=ao). 
 
