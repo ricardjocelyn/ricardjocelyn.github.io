@@ -19,9 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in Neurosciences at [Stanford University](https://med.stanford.edu/neurogradprogram.html) as a [Knight-Hennessy Scholar](https://knight-hennessy.stanford.edu/scholars/2023-cohort) in September 2023! 
+I am a PhD student in Neurosciences at [Stanford University](https://med.stanford.edu/neurogradprogram.html) and a [Knight-Hennessy Scholar](https://knight-hennessy.stanford.edu/scholars/2023-cohort)!
 
-"Previously, I began my role as a post-baccalaureate computational research assistant at the Deutsches Zentrum für Neurodegenerative Erkrankungen (DZNE) (German Center for Neurodegenerative Diseases) in Berlin, Germany, followed by a research assistant position in neuroscience at Yale University in New Haven, CT.
+Previously, I began my role as a post-baccalaureate computational research assistant at the Deutsches Zentrum für Neurodegenerative Erkrankungen (DZNE) (German Center for Neurodegenerative Diseases) in Berlin, Germany, followed by a research assistant position in neuroscience at Yale University in New Haven, CT.
 
 You can find more about me throughout my website, and my most recent work [here](https://scholar.google.com/citations?user=YKTfMsYAAAAJ&hl=en&oi=ao). 
 
