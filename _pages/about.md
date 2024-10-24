@@ -23,5 +23,5 @@ I am a PhD student in Neurosciences at [Stanford University](https://med.stanfor
 
 Previously, I began my role as a post-baccalaureate computational research assistant at the Deutsches Zentrum für Neurodegenerative Erkrankungen (DZNE) (German Center for Neurodegenerative Diseases) in Berlin, Germany, followed by a research assistant position in neuroscience at Yale University in New Haven, CT.
 
-You can find my most recent work [here]([https://scholar.google.com/citations?user=YKTfMsYAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=9Pp2QRsAAAAJ&hl=en&oi=ao)). 
+You can find my most recent work [here](https://scholar.google.com/citations?user=9Pp2QRsAAAAJ&hl=en&oi=ao).
 
