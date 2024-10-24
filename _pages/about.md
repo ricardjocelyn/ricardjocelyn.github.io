@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Stanford University,Interdepartmental Neurosciences Program.
+subtitle: 
 
 profile:
   align: right
