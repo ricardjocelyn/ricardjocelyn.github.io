@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Stanford University, <a href='https://med.stanford.edu/neurogradprogram/people/student_profiles.html'>Interdepartmental Neurosciences Program.</a>.
+subtitle: Stanford University,Interdepartmental Neurosciences Program.
 
 profile:
   align: right
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in Neurosciences at [Stanford University](https://med.stanford.edu/neurogradprogram.html) and a [Knight-Hennessy Scholar](https://knight-hennessy.stanford.edu/scholars/2023-cohort)!
+I am a PhD student in Neurosciences at Stanford University and a [Knight-Hennessy Scholar](https://knight-hennessy.stanford.edu/scholars/2023-cohort)!
 
 Previously, I began my role as a post-baccalaureate computational research assistant at the Deutsches Zentrum für Neurodegenerative Erkrankungen (DZNE) (German Center for Neurodegenerative Diseases) in Berlin, Germany, followed by a research assistant position in neuroscience at Yale University in New Haven, CT.
 
