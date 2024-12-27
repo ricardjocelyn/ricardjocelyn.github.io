@@ -7,11 +7,11 @@ nav: true
 nav_order: 1
 ---
 
-Elvisha Dhamala, **Jocelyn A. Ricard**, Lucina Q. Uddin, Liisa A. M. Galea, Emily G. Jacobs, Sarah W. Yip, B. T. Thomas Yeo, M. Mallar Chakravarty & Avram J. Holmes. Considering the interconnected nature of social identities in neuroimaging research. Nature Neuroscience (2024).
+- Elvisha Dhamala, **Jocelyn A. Ricard**, Lucina Q. Uddin, Liisa A. M. Galea, Emily G. Jacobs, Sarah W. Yip, B. T. Thomas Yeo, M. Mallar Chakravarty & Avram J. Holmes. Considering the interconnected nature of social identities in neuroimaging research. Nature Neuroscience (2024).
 
-Sidhant Chopra, Elvisha Dhamala, Connor Lawhead, **Jocelyn A. Ricard**, Edwina R. Orchard, Lijun An, Pansheng Chen et al. "Generalizable and replicable brain-based predictions of cognitive functioning across common psychiatric illness." Science Advances 10, no. 45 (**2024**): eadn1862.
+- Sidhant Chopra, Elvisha Dhamala, Connor Lawhead, **Jocelyn A. Ricard**, Edwina R. Orchard, Lijun An, Pansheng Chen et al. "Generalizable and replicable brain-based predictions of cognitive functioning across common psychiatric illness." Science Advances 10, no. 45 (2024): eadn1862.
 
-**Jocelyn A. Ricard**, Loïc Labache, Ashlea Segal, Elvisha Dhamala, Carrisa V. Cocuzza, Grant Jones, Sarah W. Yip, Sidhant Chopra, and Avram J. Holmes. "A shared spatial topography links the functional connectome correlates of cocaine use disorder and dopamine D2/3 receptor densities." Communications Biology 7, no. 1 (2024): 1178.
+- **Jocelyn A. Ricard**, Loïc Labache, Ashlea Segal, Elvisha Dhamala, Carrisa V. Cocuzza, Grant Jones, Sarah W. Yip, Sidhant Chopra, and Avram J. Holmes. "A shared spatial topography links the functional connectome correlates of cocaine use disorder and dopamine D2/3 receptor densities." Communications Biology 7, no. 1 (2024): 1178.
 
 Grant M. Jones, **Jocelyn A. Ricard**, and Matthew K. Nock. "Race and ethnicity moderate the associations between lifetime psilocybin use and past year hypertension." Frontiers in Psychiatry 15 (2024): 1169686.
 
