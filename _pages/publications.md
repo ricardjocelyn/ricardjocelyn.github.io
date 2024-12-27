@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-You can find my most updated slection of work on Google Scholar[https://scholar.google.com/citations?user=9Pp2QRsAAAAJ&hl=en&oi=ao]. 
+You can find my most updated slection of work on [Google Scholar](https://scholar.google.com/citations?user=9Pp2QRsAAAAJ&hl=en&oi=ao). 
 
 - Elvisha Dhamala, **Jocelyn A. Ricard**, Lucina Q. Uddin, Liisa A. M. Galea, Emily G. Jacobs, Sarah W. Yip, B. T. Thomas Yeo, M. Mallar Chakravarty & Avram J. Holmes. Considering the interconnected nature of social identities in neuroimaging research. Nature Neuroscience (2024).
 
