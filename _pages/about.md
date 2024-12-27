@@ -16,7 +16,7 @@ profile:
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 I am currently a PhD student in Neurosciences at Stanford University. I am a National Academies of Sciences Engineering and Medicine [Ford Foundation Predoctoral Scholar](https://www.nationalacademies.org/our-work/ford-foundation-fellowships) and a Stanford University [Knight-Hennessy Scholar](https://knight-hennessy.stanford.edu/scholars/2023-cohort)!
