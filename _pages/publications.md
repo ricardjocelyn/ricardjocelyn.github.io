@@ -9,7 +9,7 @@ nav_order: 1
 
 You can find my most updated list of publications on [Google Scholar](https://scholar.google.com/citations?user=9Pp2QRsAAAAJ&hl=en&oi=ao).
 
-<u>Under Review:<u>
+<u>Under Review:</u>
 
 - Franchesca Castro-Ramirez, Taylor C. McGuire, Maha Al-Suwaidi, Jordyn R. Ricard, Kilando Chambers, **Jocelyn A. Ricard**, Felipe Herrmann, Matthew K Nock (under review). Role of hyper-surveillance in suicide risk of black minoritized youth.
 
