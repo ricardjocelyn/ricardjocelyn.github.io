@@ -9,6 +9,15 @@ nav_order: 1
 
 You can find my most updated list of publications on [Google Scholar](https://scholar.google.com/citations?user=9Pp2QRsAAAAJ&hl=en&oi=ao).
 
+Under Review:
+
+- Franchesca Castro-Ramirez, Taylor C. McGuire, Maha Al-Suwaidi, Jordyn R. Ricard, Kilando Chambers, Jocelyn A. Ricard, Felipe Herrmann, Matthew K Nock (under review). Role of hyper-surveillance in suicide risk of black minoritized youth.
+
+- Sidhant Chopra, Carrisa V. Cocuzza, Connor Lawhead, **Jocelyn A. Ricard**, Loïc Labache, Lauren M. Patrick, Poornima Kumar, Arielle Rubenstein, Julia Moses, Lia Chen, Crystal Blankenbaker, Bryce Gillis, Laura T. Germine, Ilan Harpaz-Rotem, BT Thomas Yeo, Justin T. Baker, Avram J. Holmes (under review). The Transdiagnostic Connectome Project: a richly phenotyped open dataset for advancing the study of brain-behavior relationships in psychiatry. (preprint: medRxiv 24309054)
+  
+
+Published: 
+
 - Elvisha Dhamala, **Jocelyn A. Ricard**, Lucina Q. Uddin, Liisa A. M. Galea, Emily G. Jacobs, Sarah W. Yip, B. T. Thomas Yeo, M. Mallar Chakravarty & Avram J. Holmes. Considering the interconnected nature of social identities in neuroimaging research. Nature Neuroscience (2024).
 
 - Sidhant Chopra, Elvisha Dhamala, Connor Lawhead, **Jocelyn A. Ricard**, Edwina R. Orchard, Lijun An, Pansheng Chen et al. "Generalizable and replicable brain-based predictions of cognitive functioning across common psychiatric illness." Science Advances 10, no. 45 (2024): eadn1862.
