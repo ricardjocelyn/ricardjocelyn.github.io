@@ -11,7 +11,7 @@ You can find my most updated list of publications on [Google Scholar](https://sc
 
 Under Review:
 
-- Franchesca Castro-Ramirez, Taylor C. McGuire, Maha Al-Suwaidi, Jordyn R. Ricard, Kilando Chambers, Jocelyn A. Ricard, Felipe Herrmann, Matthew K Nock (under review). Role of hyper-surveillance in suicide risk of black minoritized youth.
+- Franchesca Castro-Ramirez, Taylor C. McGuire, Maha Al-Suwaidi, Jordyn R. Ricard, Kilando Chambers, **Jocelyn A. Ricard**, Felipe Herrmann, Matthew K Nock (under review). Role of hyper-surveillance in suicide risk of black minoritized youth.
 
 - Sidhant Chopra, Carrisa V. Cocuzza, Connor Lawhead, **Jocelyn A. Ricard**, Loïc Labache, Lauren M. Patrick, Poornima Kumar, Arielle Rubenstein, Julia Moses, Lia Chen, Crystal Blankenbaker, Bryce Gillis, Laura T. Germine, Ilan Harpaz-Rotem, BT Thomas Yeo, Justin T. Baker, Avram J. Holmes (under review). The Transdiagnostic Connectome Project: a richly phenotyped open dataset for advancing the study of brain-behavior relationships in psychiatry. (preprint: medRxiv 24309054)
   
