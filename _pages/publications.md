@@ -40,4 +40,4 @@ You can find my most updated list of publications on [Google Scholar](https://sc
 
 - **Jocelyn A. Ricard**, River Charles, Carolina Gil Tommee, Sophia Yohe, W. Robert Bell, and Margaret E. Flanagan. "Epstein virus Barr-positive diffuse large B-cell lymphoma associated with hemophagocytic lymphohistiocytosis." Journal of Neuropathology & Experimental Neurology 79, no. 8 (2020): 915-920.
 
-- **Jocelyn A. Ricard**, Samuel W. Cramer, River Charles, Carolina Gil Tommee, An Le, W. Robert Bell, Clark C. Chen, and Margaret E. Flanagan. "Infratentorial glioblastoma metastasis to bone." World neurosurgery 131 (2019): 90-94.
+- **Jocelyn A. Ricard**, Samuel W. Cramer, River Charles, Carolina Gil Tommee, An Le, W. Robert Bell, Clark C. Chen, and Margaret E. Flanagan. "Infratentorial glioblastoma metastasis to bone." World neurosurgery 131 (2019): 90-94. doi: https://doi.org/10.1016/j.wneu.2019.07.142 [pdf](https://ricardjocelyn.github.io/assets/pdf/ricard2019infratentorial.pdf)
