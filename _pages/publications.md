@@ -24,7 +24,7 @@ You can find my most updated list of publications on [Google Scholar](https://sc
 
 - **Jocelyn A. Ricard**, Loïc Labache, Ashlea Segal, Elvisha Dhamala, Carrisa V. Cocuzza, Grant Jones, Sarah W. Yip, Sidhant Chopra, and Avram J. Holmes. "A shared spatial topography links the functional connectome correlates of cocaine use disorder and dopamine D2/3 receptor densities." Communications Biology 7, no. 1 (2024): 1178. doi: 10.1101/2023.11.17.567591
 
-- Grant M. Jones, **Jocelyn A. Ricard**, and Matthew K. Nock. "Race and ethnicity moderate the associations between lifetime psilocybin use and past year hypertension." Frontiers in Psychiatry 15 (2024): 1169686. doi: 10.3389/fpsyt.2024.1169686 
+- Grant M. Jones, **Jocelyn A. Ricard**, and Matthew K. Nock. "Race and ethnicity moderate the associations between lifetime psilocybin use and past year hypertension." Frontiers in Psychiatry 15 (2024): 1169686. doi: 10.3389/fpsyt.2024.1169686  [[pdf]](https://ricardjocelyn.github.io/assets/pdf/jones2024race.pdf)
 
 - Elvisha Dhamala, Leon Qi Rong Ooi, Jianzhong Chen, **Jocelyn A. Ricard**, Emily Berkeley, Sidhant Chopra, Yueyue Qu et al. "Brain-based predictions of psychiatric illness–linked behaviors across the sexes." Biological Psychiatry 94, no. 6 (2023): 479-491. doi: 10.1016/j.biopsych.2023.03.025 [[pdf]](https://ricardjocelyn.github.io/assets/pdf/dhamala2023brain.pdf)
 
