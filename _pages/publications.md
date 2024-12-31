@@ -36,7 +36,7 @@ You can find my most updated list of publications on [Google Scholar](https://sc
 
 - Grant Jones, **Jocelyn A. Ricard**, Joshua Lipson, and Matthew K. Nock. "Associations between classic psychedelics and opioid use disorder in a nationally-representative US adult sample." Scientific Reports 12, no. 1 (2022): 4099. 
 
-- Williams, John R., R. Michael Meyer, **Jocelyn A. Ricard**, Rajeev Sen, Christopher C. Young, Abdullah H. Feroze, Madeline E. Greil et al. "Re-examining decompressive craniectomy medial margin distance from midline as a metric for calculating the risk of post-traumatic hydrocephalus." Journal of Clinical Neuroscience 87 (2021): 125-131. doi: 10.1016/j.jocn.2021.02.025 
+- Williams, John R., R. Michael Meyer, **Jocelyn A. Ricard**, Rajeev Sen, Christopher C. Young, Abdullah H. Feroze, Madeline E. Greil et al. "Re-examining decompressive craniectomy medial margin distance from midline as a metric for calculating the risk of post-traumatic hydrocephalus." Journal of Clinical Neuroscience 87 (2021): 125-131. doi: 10.1016/j.jocn.2021.02.025 [[pdf]](https://ricardjocelyn.github.io/assets/pdf/williams2021re.pdf)
 
 - **Jocelyn A. Ricard**, River Charles, Carolina Gil Tommee, Sophia Yohe, W. Robert Bell, and Margaret E. Flanagan. "Epstein virus Barr-positive diffuse large B-cell lymphoma associated with hemophagocytic lymphohistiocytosis." Journal of Neuropathology & Experimental Neurology 79, no. 8 (2020): 915-920. doi: 10.1093/jnen/nlaa061 [[pdf]](https://ricardjocelyn.github.io/assets/pdf/ricard2020epstein.pdf)
 
