@@ -13,16 +13,16 @@ You can find my most updated list of publications on [Google Scholar](https://sc
 
 - Franchesca Castro-Ramirez, Taylor C. McGuire, Maha Al-Suwaidi, Jordyn R. Ricard, Kilando Chambers, **Jocelyn A. Ricard**, Felipe Herrmann, Matthew K Nock (under review). Role of hyper-surveillance in suicide risk of black minoritized youth.
 
-- Sidhant Chopra, Carrisa V. Cocuzza, Connor Lawhead, **Jocelyn A. Ricard**, Loïc Labache, Lauren M. Patrick, Poornima Kumar, Arielle Rubenstein, Julia Moses, Lia Chen, Crystal Blankenbaker, Bryce Gillis, Laura T. Germine, Ilan Harpaz-Rotem, BT Thomas Yeo, Justin T. Baker, Avram J. Holmes (under review). The Transdiagnostic Connectome Project: a richly phenotyped open dataset for advancing the study of brain-behavior relationships in psychiatry. (preprint: medRxiv 24309054)
+- Sidhant Chopra, Carrisa V. Cocuzza, Connor Lawhead, **Jocelyn A. Ricard**, Loïc Labache, Lauren M. Patrick, Poornima Kumar, Arielle Rubenstein, Julia Moses, Lia Chen, Crystal Blankenbaker, Bryce Gillis, Laura T. Germine, Ilan Harpaz-Rotem, BT Thomas Yeo, Justin T. Baker, Avram J. Holmes (under review). The Transdiagnostic Connectome Project: a richly phenotyped open dataset for advancing the study of brain-behavior relationships in psychiatry. [[preprint]](https://www.medrxiv.org/content/10.1101/2024.06.18.24309054v1) [[code]](https://github.com/HolmesLab/TransdiagnosticConnectomeProject) 
   
 
 <u>Published:<u>
 
 - Elvisha Dhamala, **Jocelyn A. Ricard**, Lucina Q. Uddin, Liisa A. M. Galea, Emily G. Jacobs, Sarah W. Yip, B. T. Thomas Yeo, M. Mallar Chakravarty & Avram J. Holmes. Considering the interconnected nature of social identities in neuroimaging research. Nature Neuroscience (2024). doi: 10.1038/s41593-024-01832-y  [[pdf]](https://ricardjocelyn.github.io/assets/pdf/dhamala2024considering.pdf)
 
-- Sidhant Chopra, Elvisha Dhamala, Connor Lawhead, **Jocelyn A. Ricard**, Edwina R. Orchard, Lijun An, Pansheng Chen et al. "Generalizable and replicable brain-based predictions of cognitive functioning across common psychiatric illness." Science Advances 10, no. 45 (2024): eadn1862. doi: 10.1126/sciadv.adn1862 [[pdf]](https://ricardjocelyn.github.io/assets/pdf/chopra2024generalizable.pdf)
+- Sidhant Chopra, Elvisha Dhamala, Connor Lawhead, **Jocelyn A. Ricard**, Edwina R. Orchard, Lijun An, Pansheng Chen et al. "Generalizable and replicable brain-based predictions of cognitive functioning across common psychiatric illness." Science Advances 10, no. 45 (2024): eadn1862. doi: 10.1126/sciadv.adn1862 [[pdf]](https://ricardjocelyn.github.io/assets/pdf/chopra2024generalizable.pdf) [[code]](https://github.com/sidchop/PredictingCognition)
 
-- **Jocelyn A. Ricard**, Loïc Labache, Ashlea Segal, Elvisha Dhamala, Carrisa V. Cocuzza, Grant Jones, Sarah W. Yip, Sidhant Chopra, and Avram J. Holmes. "A shared spatial topography links the functional connectome correlates of cocaine use disorder and dopamine D2/3 receptor densities." Communications Biology 7, no. 1 (2024): 1178. doi: 10.1101/2023.11.17.567591 [[pdf]](https://ricardjocelyn.github.io/assets/pdf/ricard2024a.pdf)
+- **Jocelyn A. Ricard**, Loïc Labache, Ashlea Segal, Elvisha Dhamala, Carrisa V. Cocuzza, Grant Jones, Sarah W. Yip, Sidhant Chopra, and Avram J. Holmes. "A shared spatial topography links the functional connectome correlates of cocaine use disorder and dopamine D2/3 receptor densities." Communications Biology 7, no. 1 (2024): 1178. doi: 10.1101/2023.11.17.567591 [[pdf]](https://ricardjocelyn.github.io/assets/pdf/ricard2024a.pdf) [[code]](https://github.com/ricardjocelyn/cocaine-use-disorder-receptor-density)
 
 - Grant M. Jones, **Jocelyn A. Ricard**, and Matthew K. Nock. "Race and ethnicity moderate the associations between lifetime psilocybin use and past year hypertension." Frontiers in Psychiatry 15 (2024): 1169686. doi: 10.3389/fpsyt.2024.1169686  [[pdf]](https://ricardjocelyn.github.io/assets/pdf/jones2024race.pdf)
 
