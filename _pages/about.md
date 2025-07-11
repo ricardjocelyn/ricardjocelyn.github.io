@@ -13,15 +13,17 @@ profile:
     <p>Stanford University, Neurosciences Building</p>
     <p>Stanford, CA 94305</p>
 
-news: true  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: true  # includes a list of the newest posts
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am currently a PhD student in Neurosciences at Stanford University. I am a National Academies of Sciences Engineering and Medicine [Ford Foundation Predoctoral Scholar](https://www.nationalacademies.org/our-work/ford-foundation-fellowships) and a Stanford University [Knight-Hennessy Scholar](https://knight-hennessy.stanford.edu/scholars/2023-cohort)!
+I am currently a PhD candidate in Neurosciences at Stanford University. I am a National Science Foundation (NSF) Graduate Research Fellow, a National Academies of Sciences Engineering and Medicine [Ford Foundation Predoctoral Scholar](https://www.nationalacademies.org/our-work/ford-foundation-fellowships), and a Stanford University [Knight-Hennessy Scholar](https://knight-hennessy.stanford.edu/scholars/2023-cohort)!
 
-Previously, I began my role as a post-baccalaureate computational research assistant at the Deutsches Zentrum für Neurodegenerative Erkrankungen (DZNE) (German Center for Neurodegenerative Diseases) in Berlin, Germany, followed by a research assistant position in neuroscience at Yale University in New Haven, CT.
+My research examines how neighborhood disadvantage, such as poverty and/or exposure to crime, shapes adolescent brain development and its impact on substance use.
+
+Prior to starting my PhD program, I worked as a post-baccalaureate computational research assistant at the Deutsches Zentrum für Neurodegenerative Erkrankungen (DZNE) (German Center for Neurodegenerative Diseases) in Berlin, Germany, followed by a research assistant position in neuroscience at Yale University in New Haven, CT.
 
 You can find my most recent work [here](https://scholar.google.com/citations?user=9Pp2QRsAAAAJ&hl=en&oi=ao).
 
