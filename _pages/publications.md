@@ -12,13 +12,13 @@ You can find my most updated list of publications on [Google Scholar](https://sc
 <u>Under Review:<u>
 
 - Franchesca Castro-Ramirez, Taylor C. McGuire, Maha Al-Suwaidi, Jordyn R. Ricard, Kilando Chambers, **Jocelyn A. Ricard**, Felipe Herrmann, Matthew K Nock (under review). Role of hyper-surveillance in suicide risk of black minoritized youth.
-
-- Sidhant Chopra, Carrisa V. Cocuzza, Connor Lawhead, **Jocelyn A. Ricard**, Loïc Labache, Lauren M. Patrick, Poornima Kumar, Arielle Rubenstein, Julia Moses, Lia Chen, Crystal Blankenbaker, Bryce Gillis, Laura T. Germine, Ilan Harpaz-Rotem, BT Thomas Yeo, Justin T. Baker, Avram J. Holmes (under review). The Transdiagnostic Connectome Project: a richly phenotyped open dataset for advancing the study of brain-behavior relationships in psychiatry. [[preprint]](https://www.medrxiv.org/content/10.1101/2024.06.18.24309054v1) [[code]](https://github.com/HolmesLab/TransdiagnosticConnectomeProject) 
   
 
 <u>Published:<u>
 
-- Elvisha Dhamala, **Jocelyn A. Ricard**, Lucina Q. Uddin, Liisa A. M. Galea, Emily G. Jacobs, Sarah W. Yip, B. T. Thomas Yeo, M. Mallar Chakravarty & Avram J. Holmes. Considering the interconnected nature of social identities in neuroimaging research. Nature Neuroscience (2024). doi: 10.1038/s41593-024-01832-y  [[pdf]](https://ricardjocelyn.github.io/assets/pdf/dhamala2024considering.pdf)
+- Sidhant Chopra, Carrisa V. Cocuzza, Connor Lawhead, **Jocelyn A. Ricard**, Loïc Labache, Lauren M. Patrick, Poornima Kumar, Arielle Rubenstein, Julia Moses, Lia Chen, Crystal Blankenbaker, Bryce Gillis, Laura T. Germine, Ilan Harpaz-Rotem, BT Thomas Yeo, Justin T. Baker, Avram J. Holmes (2025). The Transdiagnostic Connectome Project: an open dataset for studying brain-behavior relationships in psychiatry. [[pdf]](https://ricardjocelyn.github.io/assets/pdf/chopra2025the.pdf) [[code]](https://github.com/HolmesLab/TransdiagnosticConnectomeProject) 
+
+- Elvisha Dhamala, **Jocelyn A. Ricard**, Lucina Q. Uddin, Liisa A. M. Galea, Emily G. Jacobs, Sarah W. Yip, B. T. Thomas Yeo, M. Mallar Chakravarty & Avram J. Holmes. Considering the interconnected nature of social identities in neuroimaging research. Nature Neuroscience (2025). doi: 10.1038/s41593-024-01832-y  [[pdf]](https://ricardjocelyn.github.io/assets/pdf/dhamala2024considering.pdf)
 
 - Sidhant Chopra, Elvisha Dhamala, Connor Lawhead, **Jocelyn A. Ricard**, Edwina R. Orchard, Lijun An, Pansheng Chen et al. "Generalizable and replicable brain-based predictions of cognitive functioning across common psychiatric illness." Science Advances 10, no. 45 (2024): eadn1862. doi: 10.1126/sciadv.adn1862 [[pdf]](https://ricardjocelyn.github.io/assets/pdf/chopra2024generalizable.pdf) [[code]](https://github.com/sidchop/PredictingCognition)
 
