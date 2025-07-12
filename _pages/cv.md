@@ -1,5 +1,5 @@
 ---
-permalink: /assets/pdf/CV_RicardJocelyn_241228.pdf
+permalink: /assets/pdf/cv-github.pdf
 title: cv
 nav: true
 nav_order: 2
