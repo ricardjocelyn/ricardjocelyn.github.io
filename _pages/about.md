@@ -23,7 +23,7 @@ I am currently a PhD candidate in Neurosciences at Stanford University. I am a N
 
 My research investigates the impact of neighborhood disadvantage (e.g., poverty and crime exposure) on adolescent neurodevelopment and its downstream effects on substance use. Additionally, I examine how methodological practices in human neuroimaging impact the generalizability of neuroscience research.
 
-Prior to starting my PhD program, I worked as a post-baccalaureate computational research assistant at the Deutsches Zentrum für Neurodegenerative Erkrankungen (DZNE) (German Center for Neurodegenerative Diseases) in Berlin, Germany, followed by a research assistant position in neuroscience at Yale University in New Haven, CT.
+Prior to starting at Stanford University, I worked as a post-baccalaureate computational research assistant at the Deutsches Zentrum für Neurodegenerative Erkrankungen (DZNE) (German Center for Neurodegenerative Diseases) in Berlin, Germany, followed by a research assistant position in neuroscience at Yale University in New Haven, CT.
 
 You can find my most recent work [here](https://scholar.google.com/citations?user=9Pp2QRsAAAAJ&hl=en&oi=ao).
 
