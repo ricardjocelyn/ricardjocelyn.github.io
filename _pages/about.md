@@ -19,7 +19,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am currently a PhD candidate in Neurosciences at Stanford University. I am a National Science Foundation (NSF) [Graduate Research Fellow](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program), a National Academies of Sciences Engineering and Medicine [Ford Foundation Predoctoral Scholar](https://www.nationalacademies.org/our-work/ford-foundation-fellowships), and a Stanford University [Knight-Hennessy Scholar](https://knight-hennessy.stanford.edu/scholars/2023-cohort)!
+I am currently a PhD candidate in Neurosciences at Stanford University. I am a National Science Foundation (NSF) [Graduate Research Fellow](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program), a National Academies of Sciences Engineering and Medicine [Ford Foundation Predoctoral Scholar](https://www.nationalacademies.org/our-work/ford-foundation-fellowships), [Quad Fellow](https://www.quadfellowship.org/2025-quad-fellows), and a Stanford University [Knight-Hennessy Scholar](https://knight-hennessy.stanford.edu/scholars/2023-cohort)! 
+
 
 My research investigates the impact of neighborhood disadvantage (e.g., poverty and crime exposure) on adolescent neurodevelopment and its downstream effects on substance use. Additionally, I examine how methodological practices in human neuroimaging impact the generalizability of neuroscience research.
 
