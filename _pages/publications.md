@@ -11,9 +11,9 @@ You can find my most updated list of publications on [Google Scholar](https://sc
 
 <u>Under Review:<u>
 
-Edwina R. Orchard, Clíona L. Murray, Kathryn M. Wall, Josephine CP Levy, Jin Young Shin, Claudia G. Gaebler, Victoria R. Hart-Derrick et al., ... **Jocelyn A. Ricard**, Francesca Penner, Tal Yatziv, Helena J. Rutherford. "Scanning for Representation: A Scoping Review of Racial and Ethnic Diversity in MRI Studies of the Maternal Brain." bioRxiv (2025): 2025-06. [preprint](https://ricardjocelyn.github.io/assets/pdf/orchard2025scanningpreprint.pdf)
+- Edwina R. Orchard, Clíona L. Murray, Kathryn M. Wall, Josephine CP Levy, Jin Young Shin, Claudia G. Gaebler, Victoria R. Hart-Derrick et al., ... **Jocelyn A. Ricard**, Francesca Penner, Tal Yatziv, Helena J. Rutherford. "Scanning for Representation: A Scoping Review of Racial and Ethnic Diversity in MRI Studies of the Maternal Brain." bioRxiv (2025): 2025-06. [[preprint]](https://ricardjocelyn.github.io/assets/pdf/orchard2025scanningpreprint.pdf)
 
-Elvisha Dhamala, Erynn Christensen, Jamie L. Hanson, **Jocelyn A. Ricard**, Noelle Arcaro, Simran Bhola, Lisa Wiersch et al. "Neuroanatomy Reflects Individual Variability in Impulsivity in Youth." bioRxiv (2025): 2025-04. [preprint](https://ricardjocelyn.github.io/assets/pdf/dhamala2025neuroanatomypreprint.pdf)
+- Elvisha Dhamala, Erynn Christensen, Jamie L. Hanson, **Jocelyn A. Ricard**, Noelle Arcaro, Simran Bhola, Lisa Wiersch et al. "Neuroanatomy Reflects Individual Variability in Impulsivity in Youth." bioRxiv (2025): 2025-04. [[preprint]](https://ricardjocelyn.github.io/assets/pdf/dhamala2025neuroanatomypreprint.pdf)
 
 - Franchesca Castro-Ramirez, Taylor C. McGuire, Maha Al-Suwaidi, Jordyn R. Ricard, Kilando Chambers, **Jocelyn A. Ricard**, Felipe Herrmann, Matthew K Nock (under review). Role of hyper-surveillance in suicide risk of black minoritized youth.
   
