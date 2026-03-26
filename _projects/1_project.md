@@ -28,7 +28,7 @@ Motion-related exclusions and differential attrition can systematically compromi
 
 Ricard, J.A., et al., "Retention and data exclusion challenges for representative longitudinal neuroimaging 
     in our understanding of addiction." <em>bioRxiv</em> (2025): 2025-09. 
-    <a href="https://www.biorxiv.org/content/10.1101/2025.09.04.674267v2.abstract">preprint</a>
+    <a href="https://www.biorxiv.org/content/10.1101/2025.09.04.674267v2.abstract">[preprint]</a>
 </div>
 
 
