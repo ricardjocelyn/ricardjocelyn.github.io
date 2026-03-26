@@ -18,7 +18,7 @@ You can find my most updated list of publications on [Google Scholar](https://sc
 
 <u>Published:<u>
 
-- Elvisha Dhamala, Erynn Christensen, Jamie L. Hanson, **Jocelyn A. Ricard**, Noelle Arcaro, Simran Bhola, Lisa Wiersch et al. "Neuroanatomy Reflects Individual Variability in Impulsivity in Youth." Molecular Psychiatry (2026): 2025-04. [[preprint]](https://ricardjocelyn.github.io/assets/pdf/dhamala2025neuroanatomy.pdf) [[code]](https://github.com/elvisha/neuroanat_impulsivity) 
+- Elvisha Dhamala, Erynn Christensen, Jamie L. Hanson, **Jocelyn A. Ricard**, Noelle Arcaro, Simran Bhola, Lisa Wiersch et al. "Neuroanatomy Reflects Individual Variability in Impulsivity in Youth." Molecular Psychiatry (2026): 2025-04. [[pdf]](https://ricardjocelyn.github.io/assets/pdf/dhamala2025neuroanatomy.pdf) [[code]](https://github.com/elvisha/neuroanat_impulsivity) 
 
 - Sidhant Chopra, Carrisa V. Cocuzza, Connor Lawhead, **Jocelyn A. Ricard**, Loïc Labache, Lauren M. Patrick, Poornima Kumar, Arielle Rubenstein, Julia Moses, Lia Chen, Crystal Blankenbaker, Bryce Gillis, Laura T. Germine, Ilan Harpaz-Rotem, BT Thomas Yeo, Justin T. Baker, Avram J. Holmes (2025). The Transdiagnostic Connectome Project: an open dataset for studying brain-behavior relationships in psychiatry. [[pdf]](https://ricardjocelyn.github.io/assets/pdf/chopra2025the.pdf) [[code]](https://github.com/HolmesLab/TransdiagnosticConnectomeProject) 
 
