@@ -1,7 +1,7 @@
 ---
 layout: page
 title: bias in human neuroscience methods
-description: exclusionary practices in human neuroimaging
+description: exclusionary practices in human neuroimaging 
 img: assets/img/Cover-figure.png
 importance: 1
 category: work
@@ -18,3 +18,6 @@ category: work
 
 You can read more about this project [here](https://www.nature.com/articles/s41593-022-01218-y)! 
 
+Other paper(s) related to this work:
+
+Ricard, Jocelyn A., et al., "Retention and data exclusion challenges for representative longitudinal neuroimaging in our understanding of addiction." bioRxiv (2025): 2025-09. [preprint](https://www.biorxiv.org/content/10.1101/2025.09.04.674267v2.abstract)
