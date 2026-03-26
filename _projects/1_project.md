@@ -18,9 +18,17 @@ category: work
 
 You can read more about this project [here](https://www.nature.com/articles/s41593-022-01218-y)! 
 
-Other paper(s) related to this work:
+<div class="row mt-4">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ricard2025retention.png" title="paper image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+Motion-related exclusions and differential attrition can systematically compromise sample representativeness in longitudinal neuroimaging studies, with meaningful implications for the generalizability of addiction neuroscience findings.
 
-Ricard, J.A., et al., "Retention and data exclusion challenges for representative longitudinal neuroimaging in our understanding of addiction." bioRxiv (2025): 2025-09. [preprint](https://www.biorxiv.org/content/10.1101/2025.09.04.674267v2.abstract)
+Ricard, J.A., et al., "Retention and data exclusion challenges for representative longitudinal neuroimaging 
+    in our understanding of addiction." <em>bioRxiv</em> (2025): 2025-09. 
+    <a href="https://www.biorxiv.org/content/10.1101/2025.09.04.674267v2.abstract">preprint</a>
+</div>
 
-Dhamala, E., Christensen, E., Ricard, J.A., et al., (2025). Neuroanatomy Reflects Individual Variability in Impulsivity in Youth. 
-https://www.nature.com/articles/s41380-026-03526-2
+
