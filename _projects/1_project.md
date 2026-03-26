@@ -20,4 +20,7 @@ You can read more about this project [here](https://www.nature.com/articles/s415
 
 Other paper(s) related to this work:
 
-Ricard, Jocelyn A., et al., "Retention and data exclusion challenges for representative longitudinal neuroimaging in our understanding of addiction." bioRxiv (2025): 2025-09. [preprint](https://www.biorxiv.org/content/10.1101/2025.09.04.674267v2.abstract)
+Ricard, J.A., et al., "Retention and data exclusion challenges for representative longitudinal neuroimaging in our understanding of addiction." bioRxiv (2025): 2025-09. [preprint](https://www.biorxiv.org/content/10.1101/2025.09.04.674267v2.abstract)
+
+Dhamala, E., Christensen, E., Ricard, J.A., et al., (2025). Neuroanatomy Reflects Individual Variability in Impulsivity in Youth. 
+https://www.nature.com/articles/s41380-026-03526-2
