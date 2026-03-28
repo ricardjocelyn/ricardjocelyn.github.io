@@ -20,7 +20,7 @@ You can read more about this project [here](https://www.nature.com/articles/s415
 
 <div class="row mt-4">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ricard2025retention.png" title="paper image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/pdf/ricard2025retention.png" title="paper image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
