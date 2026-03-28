@@ -8,7 +8,7 @@ category: work
 ---
 **Paper(s) related to this work**: 
 
-Ricard J.A., et al., (2024). A shared spatial topography links the functional connectome correlates of cocaine use disorder and dopamine D2/3 receptor densities. [The paper can be found here:](https://www.nature.com/articles/s42003-024-06836-9).
+Ricard J.A., et al., (2024). A shared spatial topography links the functional connectome correlates of cocaine use disorder and dopamine D2/3 receptor densities. [The paper can be found here:](https://www.nature.com/articles/s42003-024-06836-9)
 <div class="row justify-content-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/fig3-ricard-cud.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
