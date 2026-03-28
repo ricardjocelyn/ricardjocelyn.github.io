@@ -11,6 +11,8 @@ You can find my most updated list of publications on [Google Scholar](https://sc
 
 <u>Under Review:<u>
 
+-	**Jocelyn A. Ricard**, Russell A. Poldrack, Keith Humphreys. "Retention and data exclusion challenges for representative longitudinal neuroimaging in the understanding of addiction." [[preprint]](https://www.biorxiv.org/content/10.1101/2025.09.04.674267v2.abstract)
+
 - Edwina R. Orchard, Clíona L. Murray, Kathryn M. Wall, Josephine CP Levy, Jin Young Shin, Claudia G. Gaebler, Victoria R. Hart-Derrick et al., ... **Jocelyn A. Ricard**, Francesca Penner, Tal Yatziv, Helena J. Rutherford. "Scanning for Representation: A Scoping Review of Racial and Ethnic Diversity in MRI Studies of the Maternal Brain." bioRxiv (2025): 2025-06. [[preprint]](https://ricardjocelyn.github.io/assets/pdf/orchard2025scanningpreprint.pdf)
 
 - Franchesca Castro-Ramirez, Taylor C. McGuire, Maha Al-Suwaidi, Jordyn R. Ricard, Kilando Chambers, **Jocelyn A. Ricard**, Felipe Herrmann, Matthew K Nock (under review). Role of hyper-surveillance in suicide risk of black minoritized youth.
