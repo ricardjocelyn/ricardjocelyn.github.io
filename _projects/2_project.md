@@ -20,9 +20,9 @@ Ricard J.A., et al., (2024). A shared spatial topography links the functional co
 
 <hr class="mt-4 mb-4">
 
-Elvisha Dhamala, Erynn Christensen, Jamie L. Hanson, Jocelyn A. Ricard, et al. "Neuroanatomy Reflects Individual Variability in Impulsivity in Youth." Molecular Psychiatry (2026): 2025-04. [The paper can be found here:](https://www.nature.com/articles/s41380-026-03526-2).
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+Elvisha Dhamala, Erynn Christensen, Jamie L. Hanson, Jocelyn A. Ricard, et al. "Neuroanatomy Reflects Individual Variability in Impulsivity in Youth." Molecular Psychiatry (2026): 2025-04. [The paper can be found here:](https://www.nature.com/articles/s41380-026-03526-2)
+<div class="row justify-content-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/mp-fig3-dhamala.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
