@@ -1,7 +1,7 @@
 ---
 layout: page
 title: neural underpinnings of substance use disorders
-description: functional and neuroanatomical correlates of substance use disorder and related psychiatric dimensions
+description: functional and neuroanatomical correlates of substance use disorders and related psychiatric dimensions
 img: assets/img/brain.png
 importance: 2
 category: work
