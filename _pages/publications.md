@@ -18,7 +18,7 @@ You can find my most updated list of publications on [Google Scholar](https://sc
 - Franchesca Castro-Ramirez, Taylor C. McGuire, Maha Al-Suwaidi, Jordyn R. Ricard, Kilando Chambers, **Jocelyn A. Ricard**, Felipe Herrmann, Matthew K Nock (under review). Role of hyper-surveillance in suicide risk of black minoritized youth.
   
 
-<u>Published:<u>
+<u>Peer-Reviewed Publications:<u>
 
 - Elvisha Dhamala, Erynn Christensen, Jamie L. Hanson, **Jocelyn A. Ricard**, Noelle Arcaro, Simran Bhola, Lisa Wiersch et al. "Neuroanatomy Reflects Individual Variability in Impulsivity in Youth." Molecular Psychiatry (2026): 2025-04. [[pdf]](https://ricardjocelyn.github.io/assets/pdf/dhamala2025neuroanatomy.pdf) [[code]](https://github.com/elvisha/neuroanat_impulsivity) 
 
