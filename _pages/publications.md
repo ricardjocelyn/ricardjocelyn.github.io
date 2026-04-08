@@ -15,14 +15,17 @@ You can find my most updated list of publications on [Google Scholar](https://sc
 
 - Edwina R. Orchard, Clíona L. Murray, Kathryn M. Wall, Josephine CP Levy, Jin Young Shin, Claudia G. Gaebler, Victoria R. Hart-Derrick et al., ... **Jocelyn A. Ricard**, Francesca Penner, Tal Yatziv, Helena J. Rutherford. "Scanning for Representation: A Scoping Review of Racial and Ethnic Diversity in MRI Studies of the Maternal Brain." bioRxiv (2025): 2025-06. [[preprint]](https://ricardjocelyn.github.io/assets/pdf/orchard2025scanningpreprint.pdf)
 
-- Franchesca Castro-Ramirez, Taylor C. McGuire, Maha Al-Suwaidi, Jordyn R. Ricard, Kilando Chambers, **Jocelyn A. Ricard**, Felipe Herrmann, Matthew K Nock (under review). Role of hyper-surveillance in suicide risk of black minoritized youth.
+
+
+
   
 
 <u>Peer-Reviewed Publications:<u>
+- Franchesca Castro-Ramirez, Taylor C. McGuire, Maha Al-Suwaidi, Jordyn R. Ricard, **Jocelyn A. Ricard**, Felipe Herrmann, Kilando Q. Chambers, Melissa Shang, Grant Jones, Matthew K. Nock. Journal of Clinical Child & Adolescent Psychology (In Press). "The Role of Perceived Hyper-Surveillance in Adolescent Suicide Risk." [[pre-registration]](https://osf.io/4xzqd/) 
 
 - Elvisha Dhamala, Erynn Christensen, Jamie L. Hanson, **Jocelyn A. Ricard**, Noelle Arcaro, Simran Bhola, Lisa Wiersch et al. "Neuroanatomy Reflects Individual Variability in Impulsivity in Youth." Molecular Psychiatry (2026): 2025-04. [[pdf]](https://ricardjocelyn.github.io/assets/pdf/dhamala2025neuroanatomy.pdf) [[code]](https://github.com/elvisha/neuroanat_impulsivity) 
 
-- Sidhant Chopra, Carrisa V. Cocuzza, Connor Lawhead, **Jocelyn A. Ricard**, Loïc Labache, Lauren M. Patrick, Poornima Kumar, Arielle Rubenstein, Julia Moses, Lia Chen, Crystal Blankenbaker, Bryce Gillis, Laura T. Germine, Ilan Harpaz-Rotem, BT Thomas Yeo, Justin T. Baker, Avram J. Holmes (2025). The Transdiagnostic Connectome Project: an open dataset for studying brain-behavior relationships in psychiatry. [[pdf]](https://ricardjocelyn.github.io/assets/pdf/chopra2025the.pdf) [[code]](https://github.com/HolmesLab/TransdiagnosticConnectomeProject) 
+- Sidhant Chopra, Carrisa V. Cocuzza, Connor Lawhead, **Jocelyn A. Ricard**, Loïc Labache, Lauren M. Patrick, Poornima Kumar, Arielle Rubenstein, Julia Moses, Lia Chen, Crystal Blankenbaker, Bryce Gillis, Laura T. Germine, Ilan Harpaz-Rotem, BT Thomas Yeo, Justin T. Baker, Avram J. Holmes. "The Transdiagnostic Connectome Project: an open dataset for studying brain-behavior relationships in psychiatry." Scientific Data (2025). [[pdf]](https://ricardjocelyn.github.io/assets/pdf/chopra2025the.pdf) [[code]](https://github.com/HolmesLab/TransdiagnosticConnectomeProject) 
 
 - Elvisha Dhamala, **Jocelyn A. Ricard**, Lucina Q. Uddin, Liisa A. M. Galea, Emily G. Jacobs, Sarah W. Yip, B. T. Thomas Yeo, M. Mallar Chakravarty & Avram J. Holmes. "Considering the interconnected nature of social identities in neuroimaging research." Nature Neuroscience (2025). doi: 10.1038/s41593-024-01832-y  [[pdf]](https://ricardjocelyn.github.io/assets/pdf/dhamala2024considering.pdf)
 
