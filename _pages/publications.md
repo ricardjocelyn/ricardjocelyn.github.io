@@ -21,7 +21,7 @@ You can find my most updated list of publications on [Google Scholar](https://sc
   
 
 <u>Peer-Reviewed Publications:<u>
-- Franchesca Castro-Ramirez, Taylor C. McGuire, Maha Al-Suwaidi, Jordyn R. Ricard, **Jocelyn A. Ricard**, Felipe Herrmann, Kilando Q. Chambers, Melissa Shang, Grant Jones, Matthew K. Nock. "The Role of Perceived Hyper-Surveillance in Adolescent Suicide Risk." Journal of Clinical Child & Adolescent Psychology (In Press). [[pre-registration]](https://osf.io/4xzqd/) 
+- Franchesca Castro-Ramirez, Taylor C. McGuire, Maha Al-Suwaidi, Jordyn R. Ricard, **Jocelyn A. Ricard**, Felipe Herrmann, Kilando Q. Chambers, Melissa Shang, Grant Jones, Matthew K. Nock. "The Role of Perceived Hyper-Surveillance in Adolescent Suicide Risk." Journal of Clinical Child & Adolescent Psychology (In Press).  
 
 - Elvisha Dhamala, Erynn Christensen, Jamie L. Hanson, **Jocelyn A. Ricard**, Noelle Arcaro, Simran Bhola, Lisa Wiersch et al. "Neuroanatomy Reflects Individual Variability in Impulsivity in Youth." Molecular Psychiatry (2026): 2025-04. [[pdf]](https://ricardjocelyn.github.io/assets/pdf/dhamala2025neuroanatomy.pdf) [[code]](https://github.com/elvisha/neuroanat_impulsivity) 
 
