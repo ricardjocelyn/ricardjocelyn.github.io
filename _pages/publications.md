@@ -11,17 +11,24 @@ You can find my most updated list of publications on [Google Scholar](https://sc
 
 <u>Under Review:<u>
 
--	**Jocelyn A. Ricard**, Russell A. Poldrack, Keith Humphreys. "Retention and data exclusion challenges for representative longitudinal neuroimaging in the understanding of addiction." [[preprint]](https://www.biorxiv.org/content/10.1101/2025.09.04.674267v2.abstract)
+- **Jocelyn A. Ricard**, Chase Antonacci, Gabriel Reyes, Eugenia Giampetruzzi, Jivesh Ramduny, Gracie Grimsrud, Monica E. Ellwood-Lowe, Russell A. Poldrack. "Area-level context and functional brain organization across the lifespan." [[preprint]](https://doi.org/10.64898/2026.07.21.739899)
 
-- Edwina R. Orchard, Clíona L. Murray, Kathryn M. Wall, Josephine CP Levy, Jin Young Shin, Claudia G. Gaebler, Victoria R. Hart-Derrick et al., ... **Jocelyn A. Ricard**, Francesca Penner, Tal Yatziv, Helena J. Rutherford. "Scanning for Representation: A Scoping Review of Racial and Ethnic Diversity in MRI Studies of the Maternal Brain." bioRxiv (2025): 2025-06. [[preprint]](https://ricardjocelyn.github.io/assets/pdf/orchard2025scanningpreprint.pdf)
+- Chase Antonacci, Eugenia Giampetruzzi, Gracie Grimsrud, Sanju Koirala, Jessica P. Uy, **Jocelyn A. Ricard**, Yoonji Lee, André Zugman, Booil Jo, Kilian M. Pohl, Russell A. Poldrack, Ian H. Gotlib. "Early adversity selectively reshapes the somato-cognitive action network in the developing brain." [[preprint]](https://doi.org/10.64898/2026.07.17.739165)
 
+- Anita S. Jwa, **Jocelyn A. Ricard**, Nicole Martinez-Martin, Russell A Poldrack. "Neuroimaging-based mind reading: a critical analysis."
 
+- **Jocelyn A. Ricard**, Russell A. Poldrack, Keith Humphreys. "Retention and data exclusion challenges for representative longitudinal neuroimaging in the understanding of addiction." [[preprint]](https://www.biorxiv.org/content/10.1101/2025.09.04.674267v2.abstract)
 
+<u>In Preparation:<u>
 
-  
+- Chen Z, Lu N, Li X, **Jocelyn A. Ricard**, Ju C, Wang H, Kindermann C, Mumford JA, Dillmann S, Kent J, De La Vega A, Koyejo S, Calhoun V, Buckholtz JW, Zhou JH, Bollmann S, Poldrack RA. "Bringing analytic rigor to agentic AI for science: the Brain Researcher platform for neuroimaging data analysis."
+
+- Franchesca Castro-Ramirez, Taylor C. McGuire, Maha Al-Suwaidi, Jordyn R. Ricard, Kilando Q. Chambers, **Jocelyn A. Ricard**, Felipe Herrmann, ...  Matthew K. Nock. "Examining culturally-relevant experiences in self-harm for teens (eCREST): study protocol and methods for recruiting diverse youth."
 
 <u>Peer-Reviewed Publications:<u>
-- Franchesca Castro-Ramirez, Taylor C. McGuire, Maha Al-Suwaidi, Jordyn R. Ricard, **Jocelyn A. Ricard**, Felipe Herrmann, Kilando Q. Chambers, Melissa Shang, Grant Jones, Matthew K. Nock. "The Role of Perceived Hyper-Surveillance in Adolescent Suicide Risk." Journal of Clinical Child & Adolescent Psychology (In Press).  
+- Edwina R. Orchard, Clíona L. Murray, Kathryn M. Wall, Josephine C. P. Levy, Jin Young Shin, Claudia G. Gaebler, Victoria R. Hart-Derrick, Kathy Ayala, Amorine Adodo, Michèle J. Day, Melissa C. Funaro, Kathleen Guan, Termara C. Parker, **Jocelyn A. Ricard**, Francesca Penner, Tal Yatziv, Helena J. V. Rutherford. "Scanning for representation: a scoping review of racial and ethnic diversity in MRI studies of the maternal brain." Journal of Neuroendocrinology 38, no. 8 (2026): e70232. doi: 10.1111/jne.70232 [[pdf]](https://ricardjocelyn.github.io/assets/pdf/orchard2026scanning.pdf)
+
+- Franchesca Castro-Ramirez, Taylor C. McGuire, Maha Al-Suwaidi, Jordyn R. Ricard, **Jocelyn A. Ricard**, Felipe Herrmann, Kilando Q. Chambers, Melissa Shang, Grant Jones, Matthew K. Nock. "The role of perceived hyper-surveillance in adolescent suicide risk." Journal of Clinical Child & Adolescent Psychology (2026): 1-13. doi: 10.1080/15374416.2026.2660292 [[pdf]](https://ricardjocelyn.github.io/assets/pdf/castro-ramirez2026the.pdf)
 
 - Elvisha Dhamala, Erynn Christensen, Jamie L. Hanson, **Jocelyn A. Ricard**, Noelle Arcaro, Simran Bhola, Lisa Wiersch et al. "Neuroanatomy Reflects Individual Variability in Impulsivity in Youth." Molecular Psychiatry (2026): 2025-04. [[pdf]](https://ricardjocelyn.github.io/assets/pdf/dhamala2025neuroanatomy.pdf) [[code]](https://github.com/elvisha/neuroanat_impulsivity) 
 
@@ -31,7 +38,7 @@ You can find my most updated list of publications on [Google Scholar](https://sc
 
 - Sidhant Chopra, Elvisha Dhamala, Connor Lawhead, **Jocelyn A. Ricard**, Edwina R. Orchard, Lijun An, Pansheng Chen et al. "Generalizable and replicable brain-based predictions of cognitive functioning across common psychiatric illness." Science Advances 10, no. 45 (2024): eadn1862. doi: 10.1126/sciadv.adn1862 [[pdf]](https://ricardjocelyn.github.io/assets/pdf/chopra2024generalizable.pdf) [[code]](https://github.com/sidchop/PredictingCognition)
 
-- **Jocelyn A. Ricard**, Loïc Labache, Ashlea Segal, Elvisha Dhamala, Carrisa V. Cocuzza, Grant Jones, Sarah W. Yip, Sidhant Chopra, and Avram J. Holmes. "A shared spatial topography links the functional connectome correlates of cocaine use disorder and dopamine D2/3 receptor densities." Communications Biology 7, no. 1 (2024): 1178. doi: 10.1101/2023.11.17.567591 [[pdf]](https://ricardjocelyn.github.io/assets/pdf/ricard2024a.pdf) [[code]](https://github.com/ricardjocelyn/cocaine-use-disorder-receptor-density)
+- **Jocelyn A. Ricard**, Loïc Labache, Ashlea Segal, Elvisha Dhamala, Carrisa V. Cocuzza, Grant Jones, Sarah W. Yip, Sidhant Chopra, and Avram J. Holmes. "A shared spatial topography links the functional connectome correlates of cocaine use disorder and dopamine D2/3 receptor densities." Communications Biology 7, no. 1 (2024): 1178. doi: 10.1038/s42003-024-06836-9 [[pdf]](https://ricardjocelyn.github.io/assets/pdf/ricard2024a.pdf) [[code]](https://github.com/ricardjocelyn/cocaine-use-disorder-receptor-density)
 
 - Grant M. Jones, **Jocelyn A. Ricard**, and Matthew K. Nock. "Race and ethnicity moderate the associations between lifetime psilocybin use and past year hypertension." Frontiers in Psychiatry 15 (2024): 1169686. doi: 10.3389/fpsyt.2024.1169686  [[pdf]](https://ricardjocelyn.github.io/assets/pdf/jones2024race.pdf)
 
