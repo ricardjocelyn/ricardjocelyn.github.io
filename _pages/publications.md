@@ -21,7 +21,7 @@ You can find my most updated list of publications on [Google Scholar](https://sc
 
 <u>In Preparation:<u>
 
-- Chen Z, Lu N, Li X, **Jocelyn A. Ricard**, Ju C, Wang H, Kindermann C, Mumford JA, Dillmann S, Kent J, De La Vega A, Koyejo S, Calhoun V, Buckholtz JW, Zhou JH, Bollmann S, Poldrack RA. "Bringing analytic rigor to agentic AI for science: the Brain Researcher platform for neuroimaging data analysis."
+- Zijiao Chen, Nicholas Lu, Xinhui Li, **Jocelyn A. Ricard**, Ce Ju, Huan Wang, Christian Kindermann, Jeanette A. Mumford, Steven Dillmann, James Kent, Alejandro de la Vega, Sanmi Koyejo, Vince D. Calhoun, Joshua W. Buckholtz, Juan Helen Zhou, Steffen Bollmann, Russell A. Poldrack. "Bringing analytic rigor to agentic AI for science: the Brain Researcher platform for neuroimaging data analysis."
 
 - Franchesca Castro-Ramirez, Taylor C. McGuire, Maha Al-Suwaidi, Jordyn R. Ricard, Kilando Q. Chambers, **Jocelyn A. Ricard**, Felipe Herrmann, ...  Matthew K. Nock. "Examining culturally-relevant experiences in self-harm for teens (eCREST): study protocol and methods for recruiting diverse youth."
 
