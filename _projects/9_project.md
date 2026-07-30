@@ -2,7 +2,7 @@
 layout: page
 title: structural disadvantage and the adolescent brain
 description: linking area-level disadvantage to adolescent brain network development and behavior
-img: assets/img/graphical-abstract.png
+img: assets/img/graphical-abstract.jpg
 importance: 3
 category: work
 ---
